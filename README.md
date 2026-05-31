@@ -14,7 +14,7 @@ I'm a passionate Computer Science student at the University of Johannesburg, cur
 
 ## 💻 Tech Stack
 - **Languages:** C#, SQL, HTML, CSS, JavaScript, Java, C++, VisualBasic  
-- **Frameworks:** ASP.NET, WCF  
+- **Frameworks:** ASP.NET, WCF, Blazor, NextJS  
 - **Tools:** Visual Studio, VS Code, Git & GitHub  
 - **Databases:** SQL Server, MySQL
 
