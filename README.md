@@ -3,7 +3,7 @@
 
 🎓 **Computer Science Student**  
 📍 **University of Johannesburg**  
-🎉 **Final Year (3rd Year)**  
+🎉 **Final Year**  
 
 ---
 
